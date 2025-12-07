@@ -186,6 +186,3 @@ What to do:
 - [ ] Appendices folder linked
 ```
 
----
-
-Would you like me to generate a **starter README.md file** you can drop into your GitHub repo?
