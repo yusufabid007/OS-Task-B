@@ -52,6 +52,9 @@ What to include:
 * Provide a table explaining key fields from your data dictionary
 * Briefly explain what data is collected and why
 
+  <img width="654" height="526" alt="image" src="https://github.com/user-attachments/assets/a43a868e-812d-42cb-8238-50a65e829ee3" />
+
+
 
 ---
 
